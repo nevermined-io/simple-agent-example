@@ -72,8 +72,6 @@ npm run dev
 
 ### Accessing the Agent via HTTP
 
-### Accessing the Agent via HTTP
-
 The agent can also be accessed via an HTTP interface. However, to use this integration, follow these steps:
 
 1.  **Purchase Credits:**  
