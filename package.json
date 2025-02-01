@@ -1,0 +1,21 @@
+{
+  "name": "simple-agent-example",
+  "version": "1.0.0",
+  "main": "main.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js"
+  },
+  "keywords": [],
+  "author": "Nevermined",
+  "license": "MIT",
+  "description": "A simple agent example",
+  "dependencies": {
+    "@nevermined-io/payments": "^0.8.1",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.2"
+  }
+}
