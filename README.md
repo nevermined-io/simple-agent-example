@@ -26,7 +26,7 @@ This project is a simple implementation of an agent that leverages **Nevermined 
    ```bash
    git clone https://github.com/nevermined-io/simple-agent-example.git
    cd simple-agent-example
-```
+    ```
 
 2.  **Install dependencies:**
     
